@@ -1,90 +1,101 @@
 
+# 🐍 DSA in Python
 
-## 📌 DSA in Python 🐍  
-**Master Data Structures and Algorithms (DSA) with Python!**  
-This repository contains well-structured implementations of various DSA concepts in Python, designed for coding enthusiasts, students, and competitive programmers. 💡✨  
-
----
-
-## 📜 Table of Contents 📚  
-- 🔹 [Introduction](#-introduction)  
-- 🔹 [Installation](#-installation)  
-- 🔹 [Features](#-features)  
-- 🔹 [Usage](#-usage)  
-- 🔹 [Contributing](#-contributing)  
-- 🔹 [License](#-license)  
-- 🔹 [Contact](#-contact)  
+Master core **Data Structures and Algorithms** using Python with real-world coding problems and interview preparation patterns.
 
 ---
 
-## 🚀 Introduction  
-This repository provides efficient and optimized Python implementations of fundamental **Data Structures and Algorithms**.  
-Whether you're preparing for coding interviews 💼, competitive programming 🏆, or just improving problem-solving skills, this is your go-to resource!  
+## 📦 Repository Contents
 
----
+Here are the Python files currently included:
 
-## ⚡ Installation  
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/yourusername/DSA_PYTHON.git
 ```
-2️⃣ **Navigate to the folder**  
-```bash
-cd DSA_PYTHON
-```
-3️⃣ **Run Python scripts**  
-```bash
-python filename.py
-```
-
-📌 **Prerequisite:** Ensure Python is installed on your system. You can download it [here](https://www.python.org/downloads/).  
-
----
-
-## 🌟 Features  
-✅ Clean and optimized DSA implementations  
-✅ Covers Sorting, Searching, Graphs, Trees, Dynamic Programming, and more!  
-✅ Beginner-friendly with well-commented code 📝  
-✅ Regular updates with new algorithms 🔄  
-
----
-
-## 💡 Usage  
-Explore different DSA topics inside the repository folders:  
-📂 **Sorting** → `Bubble Sort, Quick Sort, Merge Sort...`  
-📂 **Searching** → `Binary Search, Linear Search...`  
-📂 **Linked Lists** → `Singly, Doubly, Circular...`  
-📂 **Stacks & Queues** → `Stack, Queue, Deque...`  
-📂 **Graphs & Trees** → `BFS, DFS, Dijkstra...`  
-
-Run a specific algorithm:  
-```bash
-python sorting/quick_sort.py
+📁 DSA_PYTHON
+│
+├── 2_sum.py                  # Finds two numbers that sum up to a target
+├── Candy_Priority.py         # Candy distribution problem (likely a greedy problem)
+├── First_and_Last_Occurence.py  # Binary search for range
+├── Left_and_Right_Rotate.py  # Array rotations
+├── Merge_sort.py             # Merge sort algorithm
+├── Remove_duplicates.py      # Remove duplicates from array
+├── Stock_Buy_Sell.py         # Max profit stock trading problem
+├── selection_sort.py         # Classic selection sort
+├── LICENSE                   # MIT License
+└── README.md                 # Project documentation
 ```
 
 ---
 
-## 🤝 Contributing  
-🔹 Fork this repository  
-🔹 Create a new branch (`feature-branch`)  
-🔹 Commit your changes (`git commit -m "Added new algorithm"`)  
-🔹 Push to your fork & submit a PR  
+## 🔥 Features
 
-We welcome contributions! 🏆 Let’s build this together.  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License**. Feel free to use and distribute it! 🎉  
+* ✅ Pythonic and beginner-friendly syntax
+* ✅ Focused on coding interview prep
+* ✅ Clean file organization by topic
+* ✅ Regular additions and improvements
+* ✅ Well-commented code for easy understanding
 
 ---
 
-## 📬 Contact  
-📧 **Email**: amanantuley@gmail.com  
-🐦 **Twitter**: [@amanantuley](https://twitter.com/amanantuley)  
-💼 **LinkedIn**: [amanantuley](https://linkedin.com/in/amanantuley)  
+## 🚀 Getting Started
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/DSA_PYTHON.git
+   cd DSA_PYTHON
+   ```
+
+2. **Run any file**
+
+   ```bash
+   python 2_sum.py
+   ```
+
+3. **Requirements**
+
+   * Only Python 3 is required — no extra libraries.
 
 ---
 
-🚀 **Star this repository** ⭐ if you find it helpful! Happy Coding! 🎯🐍  
+## 📚 Topics Covered
+
+| Category           | File(s) Example                          |
+| ------------------ | ---------------------------------------- |
+| **Sorting**        | `Merge_sort.py`, `selection_sort.py`     |
+| **Searching**      | `First_and_Last_Occurence.py`            |
+| **Array Problems** | `2_sum.py`, `Remove_duplicates.py`       |
+| **Greedy/Logic**   | `Candy_Priority.py`, `Stock_Buy_Sell.py` |
+| **Rotations**      | `Left_and_Right_Rotate.py`               |
+
+More advanced topics like trees, graphs, and dynamic programming will be added soon!
+
+---
+
+## 🤝 Contributing
+
+Want to add your own solutions or enhancements?
+
+1. Fork the repo
+2. Create a new branch: `git checkout -b my-feature`
+3. Commit your changes: `git commit -m "Add algorithm"`
+4. Push and submit a Pull Request 🚀
+
+---
+
+## 📜 License
+
+Licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute this repo.
+
+---
+
+## 📬 Contact
+
+* 📧 **Email**: [amanantuley@gmail.com](mailto:amanantuley@gmail.com)
+* 💼 **LinkedIn**: [linkedin.com/in/amanantuley](https://linkedin.com/in/amanantuley)
+* 🐦 **Twitter**: [@amanantuley](https://twitter.com/amanantuley)
+
+---
+
+⭐ If this helped you, consider starring the repo to support the work!
+💡 Happy Coding & Keep Solving! 🧠
 
